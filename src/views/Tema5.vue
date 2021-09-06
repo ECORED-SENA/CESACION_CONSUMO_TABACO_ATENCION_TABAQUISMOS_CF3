@@ -70,7 +70,7 @@
           .row.px-5.align-items-center
             .col-2
               figure
-                img(src="@/assets/curso/tema3-imagen2.svg")
+                img(src="@/assets/curso/tema5-imagen2.svg")
             .col-10
               p.mb-0 A mayor número de intentos previos para dejar de fumar, mayor posibilidad de lograr la cesación definitiva. 
 

@@ -14,22 +14,22 @@
       .col-lg-4.col-12.mb-4.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen1.svg' alt='')
-          .tarjeta.color-primario
-            .text-white.py-4.px-5
+          .tarjeta.color-primario.background-naranja-claro-1
+            .py-4.px-5
               p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
 
       .col-lg-4.col-12.mb-4.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen2.svg' alt='')
-          .tarjeta.color-primario
-            .text-white.py-4.px-5
+          .tarjeta.color-primario.background-naranja-claro-2
+            .py-4.px-5
               p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
 
       .col-lg-4.col-12.mb-4.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen3.svg' alt='')
-          .tarjeta.color-primario
-            .text-white.py-4.px-5
+          .tarjeta.color-primario.background-naranja-claro-1
+            .py-4.px-5
               p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
 
 
@@ -39,7 +39,45 @@
       br
       | Es así como en la historia clínica de un paciente fumador se deben registrar los siguientes datos: 
     
-    //- TODO: Tema1 Acordeon
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        LineaTiempoD.color-primario
+          .row.justify-content-center(numero="1" titulo="Indagación")
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src="@/assets/curso/tema1-imagen7.svg" style="width: 140px")
+            .col-md
+              p.text-small Todas las personas que acuden a algún servicio de salud deben ser interrogadas acerca de su relación con el consumo de productos del tabaco o derivados (incluyendo cigarrillos electrónicos y exposición al humo de tabaco ambiental), para establecer su condición de no fumador, fumador, exfumador o fumador pasivo.
+          .row.justify-content-center(numero="2" titulo="Historia de consumo")
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src="@/assets/curso/tema1-imagen8.svg" style="width: 140px")
+            .col-md
+              p.text-small Es necesario dejar registro de la historia de consumo de tabaco y grado del tabaquismo del paciente, indicando la cantidad de cigarrillos fumados por día y, además, relacionar el tiempo de consumo, estos datos permitirán valorar el nivel de riesgo y el índice tabáquico.
+          .row.justify-content-center(numero="3" titulo="Valoración de etapas de cambio")
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src="@/assets/curso/tema1-imagen9.svg" style="width: 140px")
+            .col-md
+              p.text-small Es importante considerar el nivel de cambio del paciente al momento de la consulta, identificar si presenta resistencia o se muestra accesible a considerar el proceso de cambio al identificar la problemática.
+          .row.justify-content-center(numero="4" titulo="Nivel de motivación")
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src="@/assets/curso/tema1-imagen10.svg" style="width: 140px")
+            .col-md
+              p.text-small Se debe valorar el nivel de motivación para el abandono del hábito de consumo de tabaco.
+          .row.justify-content-center(numero="5" titulo="Intentos previos")
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src="@/assets/curso/tema1-imagen11.svg" style="width: 140px")
+            .col-md
+              p.text-small Es necesario indagar si el paciente ha tenido intentos previos de cesación y los motivos de recaídas.
+          .row.justify-content-center(numero="6" titulo="Grado de dependencia")
+            .col-md-auto.mb-4.mb-md-0
+              figure
+                img(src="@/assets/curso/tema1-imagen12.svg" style="width: 140px")
+            .col-md
+              p.text-small Hay que averiguar acerca de la cantidad y consumo diario, a qué hora consume el primero, si consume estando enfermo y si se le dificulta respetar los lugares donde está prohibido fumar. 
 
     p.mb-5 Debemos tener presente que toda persona que consulta al sistema de salud, independiente de su motivo de consulta, debe ser interrogada sobre el consumo de productos de tabaco o sus derivados. El profesional de salud debe registrar esta información en la historia clínica de manera sistemática, debido a que la identificación temprana del consumo de tabaco aumenta de manera significativa los índices de intervención en los pacientes fumadores.
       br
@@ -48,7 +86,7 @@
 
     .row.justify-content-center
       .col-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1-imagen4.jpg')})`}"
           )

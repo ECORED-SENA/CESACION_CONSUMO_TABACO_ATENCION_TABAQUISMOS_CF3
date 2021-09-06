@@ -221,7 +221,7 @@
           h3 Prueba de Glover Nilsson
           p.mb-4 Una manera de evaluar la dependencia psicológica del tabaquismo es a través de la prueba de Glover Nilsson, que busca identificar la necesidad de un abordaje terapéutico multicomponente, especialmente de corte psicosocial. A continuación, se presenta el instrumento que podrá ser usado en la práctica.
           
-          a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_Glover_Nilsson.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
@@ -261,7 +261,7 @@
 
     .row.justify-content-center.mb-5
       .col-auto
-        a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo(:href="obtenerLink('/downloads/Anexo_Prueba_Razones.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -273,12 +273,8 @@
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema6',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
   data: () => ({
     // variables de vue
   }),
