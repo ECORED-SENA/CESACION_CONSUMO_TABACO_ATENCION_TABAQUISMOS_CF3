@@ -1,0 +1,74 @@
+.caja-clara
+  &.color-primario-1
+    background: #F4F7FB
+  &.color-primario-2
+    background: #E4ECF5
+
+.cajon.color-primario
+  background: #FEE4E0
+
+.caja-enumerada
+  .col-auto
+    background: #D2E1F1
+  .col
+    background: #F3F9FF
+
+.tabs-a__tab
+  background-color: #E8E8E8
+.tarjeta.color-primario--borde
+  background-color: #FEEFEC
+
+.image-with-color
+  position: relative
+  img
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    bottom: 50%
+    left: 50%
+    right: 0
+    background-color: #FEE4E0
+
+.image-with-color-bottom
+  position: relative
+  img
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 50%
+    bottom: 0
+    left: 50%
+    right: 0
+    background-color: #C6D2E3
+  &.right::before
+    content: ''
+    position: absolute
+    top: 50%
+    bottom: 0
+    left: 0
+    right: 50%
+    background-color: #FEE0DC
+
+.text-offset-box
+  position: relative
+  > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 30%
+    bottom: 0
+    left: 65%
+    right: 0
+    background-color: #DEE5EE
+
+.color-caja-primaria
+  background-color: #FEE9E5
+
+.color-caja-acento-contenido
+  background-color: #EDF7FF
+.cajon.color-acento-contenido
+  background: #BFCCDF
