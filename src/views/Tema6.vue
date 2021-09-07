@@ -8,28 +8,28 @@
         span 6
       h1 Valoración de la dependencia del tabaquismo
 
-    p.mb-5 Es importante realizar una aproximación diagnóstica de la dependencia del tabaquismo, pues el consumidor de productos de tabaco o sus derivados, desarrolla una triple dependencia que se puede evaluar a partir de la aplicación de distintos instrumentos.
+    p.mb-5(data-aos="fade-right" data-aos-duration="500") Es importante realizar una aproximación diagnóstica de la dependencia del tabaquismo, pues el consumidor de productos de tabaco o sus derivados, desarrolla una triple dependencia que se puede evaluar a partir de la aplicación de distintos instrumentos.
       br
       br
       | A continuación, se presentan algunas de las pruebas utilizadas para evaluar la triple dependencia del tabaquismo.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-duration="500")
       .col-lg-8
         figure
           img(src="@/assets/curso/tema6-imagen1.svg")
 
-    p.mb-5 Ahora, se analizarán cada una de estas dependencias.
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") Ahora, se analizarán cada una de estas dependencias.
 
     h3.titulo-tercero Dependencia física a la nicotina
 
-    p.mb-5 Para evaluar este tipo de dependencia, existe la prueba de Fagerström, un instrumento estándar validado y utilizado ampliamente en varios países. Se aplica mediante una escala auto o hetero administrada de seis (6) ítems, para evaluar el grado de dependencia física a la nicotina. 
+    p.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500") Para evaluar este tipo de dependencia, existe la prueba de Fagerström, un instrumento estándar validado y utilizado ampliamente en varios países. Se aplica mediante una escala auto o hetero administrada de seis (6) ítems, para evaluar el grado de dependencia física a la nicotina. 
       br
       | En la siguiente tabla se encuentra el instrumento con las preguntas, respuestas y respectivos puntajes.
     
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
       h5 Tabla 3
       span Preguntas de la prueba Fagerström
-    .tabla-a.color-acento-contenido.mb-5 
+    .tabla-a.color-acento-contenido.mb-5(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
       table
         caption Nota. Tomada del Ministerio de Salud y Protección Social (2020).
         thead
@@ -115,9 +115,9 @@
               br
               | 0
 
-    p.mb-5 Para la interpretación de esta prueba se debe contabilizar el total de los puntos de acuerdo con la respuesta del paciente, para identificar el nivel de dependencia física a la nicotina: 
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") Para la interpretación de esta prueba se debe contabilizar el total de los puntos de acuerdo con la respuesta del paciente, para identificar el nivel de dependencia física a la nicotina: 
 
-    .row.mb-5.justify-content-center
+    .row.mb-5.justify-content-center(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-7
         .row.color-caja-primaria.py-4.px-5
           .col-lg-4.col-12
@@ -133,9 +133,9 @@
               h5 Más de 7
               span Alta dependencia física a la nicotina.
 
-    p.mb-5 La prueba de Fagerström versión breve, con solo dos preguntas, también ayuda a evaluar la probabilidad de dependencia física a la nicotina. La aplicación que puede ser auto o hetero administrada y las preguntas se presentan en la siguiente tabla.
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") La prueba de Fagerström versión breve, con solo dos preguntas, también ayuda a evaluar la probabilidad de dependencia física a la nicotina. La aplicación que puede ser auto o hetero administrada y las preguntas se presentan en la siguiente tabla.
 
-    .row.mb-5.justify-content-center
+    .row.mb-5.justify-content-center(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-7
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4
@@ -168,9 +168,9 @@
                   br
                   | 11 a 20 cigarrillos (1 punto).
 
-    p.mb-5 Para la interpretación de esta prueba se debe contabilizar el total de los puntos de acuerdo con la respuesta del paciente para identificar el nivel de dependencia física a la nicotina: 
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") Para la interpretación de esta prueba se debe contabilizar el total de los puntos de acuerdo con la respuesta del paciente para identificar el nivel de dependencia física a la nicotina: 
 
-    .row.mb-5.justify-content-center
+    .row.mb-5.justify-content-center(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-7
         .row.color-caja-primaria.py-4.px-5
           .col-lg-4.col-12
@@ -186,33 +186,33 @@
               h5 0 a 2 puntos
               span Baja dependencia física a la nicotina.
 
-    p.mb-5 Es importante tener presente que se consideran factores predictores de alta dependencia física a la nicotina:
+    p.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500") Es importante tener presente que se consideran factores predictores de alta dependencia física a la nicotina:
 
     .row.justify-content-center.mb-5
       .col-10
         .row
-          .col-lg-6.col-12.mb-4.mb-lg-0
+          .col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
             .tarjeta-avatar
               img(src='@/assets/curso/tema6-imagen2.svg' alt='')
               .tarjeta.color-primario.background-naranja-claro-1
                 .py-4.px-5
                   p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
 
-          .col-lg-6.col-12.mb-4.mb-lg-0
+          .col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-up" data-aos-offset="250" data-aos-duration="500")
             .tarjeta-avatar
               img(src='@/assets/curso/tema6-imagen3.svg' alt='')
               .tarjeta.color-primario.background-naranja-claro-2
                 .py-4.px-5
                   p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500")
       .col-lg-7.col-12
         .cajon.color-acento-contenido.p-4
           p.mb-0 Los pacientes con alta dependencia física a la nicotina tienen alrededor de 2,5 veces más riesgo de fracaso en el tratamiento del tabaquismo, en comparación con los pacientes con dependencia física baja. 
 
-    h3.titulo-tercero Dependencia psicológica del tabaquismo
+    h3.titulo-tercero(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500") Dependencia psicológica del tabaquismo
 
-    .tarjeta.color-acento-contenido-claro.p-4.p-md-5.mb-5
+    .tarjeta.color-acento-contenido-claro.p-4.p-md-5.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .row.justify-content-around.align-items-center
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
           img(src="@/assets/curso/tema6-imagen4.svg")
@@ -225,9 +225,9 @@
             span Descargar
             i.fas.fa-file-download
 
-    p.mb-5 Para la interpretación de esta prueba se debe contabilizar el total de los puntos de acuerdo con la respuesta del paciente, para identificar el nivel de dependencia psicológica.
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") Para la interpretación de esta prueba se debe contabilizar el total de los puntos de acuerdo con la respuesta del paciente, para identificar el nivel de dependencia psicológica.
 
-    .row.mb-5.justify-content-center
+    .row.mb-5.justify-content-center(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-7
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5
@@ -253,13 +253,13 @@
                 td Muy severa
                 td 34 a 44
 
-    h3.titulo-tercero Dependencia social del tabaquismo
+    h3.titulo-tercero(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") Dependencia social del tabaquismo
 
-    p.mb-5 Para evaluar la dependencia social, se deben considerar otros factores como los patrones de consumo de tabaco por parte de familia, pares y roles modelos en la comunidad. 
+    p.mb-5(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500") Para evaluar la dependencia social, se deben considerar otros factores como los patrones de consumo de tabaco por parte de familia, pares y roles modelos en la comunidad. 
       br
       | Una prueba sugerida para evaluar este tipo de dependencia puede ser Razones por las que fumo, la cual puede ser autodiligenciada, permitiendo ampliar la comprensión global de las razones por las que una persona continúa fumando, como refuerzo gestual, estimulación, placer, relajación, reducción de estados negativos, adicción, automatismo, que podrían presentarse al mismo tiempo en diferentes niveles en cada fumador.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
       .col-auto
         a.anexo(:href="obtenerLink('/downloads/Anexo_Prueba_Razones.pdf')" target="_blank")
           .anexo__icono
@@ -268,7 +268,7 @@
             p <strong>Anexo</strong>. Prueba Razones por las que no fumo.
           
 
-    p.mb-5 Finalmente, entender la psicopatología de la adicción al tabaco y de las motivaciones para el cambio de conducta permite comprender a los fumadores y brindar un mejor apoyo psicosocial a estas personas, por lo tanto, contar con esta información a partir la aplicación de instrumentos como “Razones por las que fumo”, aumentará el éxito del abordaje para ayudar al paciente a dejar de fumar, siendo necesario que el personal de salud reconozca este tipo se instrumentos y comprenda su uso y utilidad.
+    p.mb-5(data-aos="fade-down" data-aos-duration="500") Finalmente, entender la psicopatología de la adicción al tabaco y de las motivaciones para el cambio de conducta permite comprender a los fumadores y brindar un mejor apoyo psicosocial a estas personas, por lo tanto, contar con esta información a partir la aplicación de instrumentos como “Razones por las que fumo”, aumentará el éxito del abordaje para ayudar al paciente a dejar de fumar, siendo necesario que el personal de salud reconozca este tipo se instrumentos y comprenda su uso y utilidad.
   
 </template>
 

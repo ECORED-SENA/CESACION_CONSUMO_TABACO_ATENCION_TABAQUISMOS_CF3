@@ -8,17 +8,17 @@
         span 7
       h1 Exámenes complementarios para la evaluación del paciente fumador
 
-    p.mb-5 Durante la valoración clínica del paciente fumador deben considerarse algunos exámenes complementarios, sobre todo porque ayudan a la identificación temprana de comorbilidades o precisan más el grado de exposición al humo de tabaco.
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Durante la valoración clínica del paciente fumador deben considerarse algunos exámenes complementarios, sobre todo porque ayudan a la identificación temprana de comorbilidades o precisan más el grado de exposición al humo de tabaco.
 
-    figure.image-with-color-bottom.right.p-4.mb-5
+    figure.image-with-color-bottom.right.p-4.mb-5(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       img(src="@/assets/curso/tema7-imagen1.jpg")
 
-    p.mb-5 En la siguiente tabla se describen los datos mínimos, pruebas necesarias y opcionales que se pueden realizar en el paciente fumador como parte de la valoración clínica y que orientarán el tratamiento a seguir:
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") En la siguiente tabla se describen los datos mínimos, pruebas necesarias y opcionales que se pueden realizar en el paciente fumador como parte de la valoración clínica y que orientarán el tratamiento a seguir:
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       h5 Tabla 6
       span Datos mínimos para abordar al paciente
-    .tabla-a.color-acento-contenido.mb-5 
+    .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       table
         caption Nota. Tomada del Ministerio de Salud y Protección Social (2020).
         thead
@@ -60,13 +60,13 @@
             td Prueba razones por las que fumo.
             td Opcional          
 
-    p.mb-5 Esta tabla servirá como resumen y guía al momento de abordar un paciente fumador; en esta categorización se identifican algunas pruebas como opcionales, sin embargo, es recomendable que siempre se realice una valoración completa.
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Esta tabla servirá como resumen y guía al momento de abordar un paciente fumador; en esta categorización se identifican algunas pruebas como opcionales, sin embargo, es recomendable que siempre se realice una valoración completa.
 
-    h3.titulo-tercero Evaluación del nivel de CO en el aire espirado: Cooximetría
+    h3.titulo-tercero(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500") Evaluación del nivel de CO en el aire espirado: Cooximetría
 
-    p.mb-5 Esta tabla servirá como resumen y guía al momento de abordar un paciente fumador; en esta categorización se identifican algunas pruebas como opcionales, sin embargo, es recomendable que siempre se realice una valoración completa.
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Esta tabla servirá como resumen y guía al momento de abordar un paciente fumador; en esta categorización se identifican algunas pruebas como opcionales, sin embargo, es recomendable que siempre se realice una valoración completa.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       .col-lg-9.col-12
         .cajon.color-primario.p-4
           .row.px-5.align-items-center
@@ -76,12 +76,12 @@
             .col-10
               p.mb-0 Su resultado puede servir como motivación para dejar de fumar, al evidenciar que el consumo de tabaco si genera alteraciones en los niveles de monóxido de carbono, haciendo tangible la posibilidad de riesgos para la salud como consecuencia del consumo. 
 
-    p.mb-5 No es un examen necesario para la valoración clínica del paciente fumador, no obstante, si se tiene disponible, permite correlacionar sus niveles con el grado de tabaquismo y evaluar niveles reales de abstinencia en el seguimiento del paciente en proceso de cesación, al ser una prueba sencilla, fácil e inocua de realizar.
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") No es un examen necesario para la valoración clínica del paciente fumador, no obstante, si se tiene disponible, permite correlacionar sus niveles con el grado de tabaquismo y evaluar niveles reales de abstinencia en el seguimiento del paciente en proceso de cesación, al ser una prueba sencilla, fácil e inocua de realizar.
       br
       br
       | Se mide en partículas por millón y en términos generales, el resultado de la cooximetría se puede interpretar así:
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       .col-lg-9.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 7
@@ -106,14 +106,14 @@
                 td Fumadores 
                 td CO > 10 ppm
 
-    p.mb-5 La vida media del nivel CO en aire espirado es corta (entre 2-5 horas), por lo que esta es una de las causas más frecuentes de falsos negativos. 
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") La vida media del nivel CO en aire espirado es corta (entre 2-5 horas), por lo que esta es una de las causas más frecuentes de falsos negativos. 
       br
       | Existe una correlación entre los niveles de cooximetría y el grado de tabaquismo, es decir, un grado leve de tabaquismo mediante cooximetría indica que la persona tiene menos de 15 ppm de monóxido de carbono en el aire espirado y así sucesivamente. 
       br
       br
       | En la siguiente tabla se muestra esa correlación y además se compara con el grado de tabaquismo usando el Índice Paquete-Año (IPA).
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       .col-lg-7.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 8
@@ -143,7 +143,7 @@
                 td > 25
                 td > 30
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500")
       .col-lg-9.col-12
         .cajon.color-acento-contenido.p-4
           .row.px-5.align-items-center
@@ -153,7 +153,7 @@
             .col-10
               p.mb-0 Las pruebas de detección temprana son muy importantes, pues permitirán la realización de tratamientos oportunos y más eficientes. 
 
-    p.mb-5 A continuación, se presentan los tipos de tamizajes de detección temprana en pacientes fumadores:
+    p.mb-5(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500") A continuación, se presentan los tipos de tamizajes de detección temprana en pacientes fumadores:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.px-5(titulo="Detección temprana de depresión")
@@ -203,7 +203,7 @@
 
         
 
-    p.mb-5 En el caso de fumadores con antecedentes de trastornos de ansiedad, se recomienda utilizar las mismas estrategias de cesación que en pacientes sin trastornos de ansiedad y tener manejo interdisciplinario con psicología y psiquiatría. 
+    p.mb-5(data-aos="fade-right" data-aos-duration="500") En el caso de fumadores con antecedentes de trastornos de ansiedad, se recomienda utilizar las mismas estrategias de cesación que en pacientes sin trastornos de ansiedad y tener manejo interdisciplinario con psicología y psiquiatría. 
   
 </template>
 

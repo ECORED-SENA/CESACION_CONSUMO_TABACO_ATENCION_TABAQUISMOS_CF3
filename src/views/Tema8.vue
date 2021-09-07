@@ -8,14 +8,14 @@
         span 8
       h1 Registro de información sobre atención en tabaquismo en la historia clínica (códigos CIE-10 y códigos CUPS)
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-right" data-aos-duration="500")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
       h5 Tabla 9
       span Reporte de los diagnósticos y procedimiento para atención del tabaquismo CIE-10 y CUPS
-    .tabla-a.color-acento-contenido.mb-5 
+    .tabla-a.color-acento-contenido.mb-5(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
       table
         caption Nota. Tomada del Ministerio de Salud y Protección Social (2020).
         thead
@@ -56,7 +56,7 @@
             td 89.0.3 Consulta de control o de seguimiento.
         
 
-    p.mb-0 Se debe tener siempre presente que el reporte adecuado y oportuno de esta información les posibilita a los actores del sistema de salud saber si las atenciones prestadas generan un impacto positivo, reservar recursos u orientar las decisiones clínicas y de política pública.
+    p.mb-0(data-aos="fade-down" data-aos-duration="500") Se debe tener siempre presente que el reporte adecuado y oportuno de esta información les posibilita a los actores del sistema de salud saber si las atenciones prestadas generan un impacto positivo, reservar recursos u orientar las decisiones clínicas y de política pública.
   
 </template>
 

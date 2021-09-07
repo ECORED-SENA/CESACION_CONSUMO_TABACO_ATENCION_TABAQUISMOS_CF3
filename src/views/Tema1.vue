@@ -8,24 +8,24 @@
         span 1
       h1 Indagación sobre el consumo de productos del tabaco o derivados
 
-    p.mb-5 En todos los usuarios del sistema de salud, es importante:
+    p.mb-5(data-aos="fade-right" data-aos-duration="500") En todos los usuarios del sistema de salud, es importante:
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-12.mb-4.mb-lg-0
+      .col-lg-4.col-12.mb-4.mb-lg-0(data-aos="fade-up" data-aos-duration="500")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen1.svg' alt='')
           .tarjeta.color-primario.background-naranja-claro-1
             .py-4.px-5
               p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
 
-      .col-lg-4.col-12.mb-4.mb-lg-0
+      .col-lg-4.col-12.mb-4.mb-lg-0(data-aos="fade-down" data-aos-duration="500")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen2.svg' alt='')
           .tarjeta.color-primario.background-naranja-claro-2
             .py-4.px-5
               p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
 
-      .col-lg-4.col-12.mb-4.mb-lg-0
+      .col-lg-4.col-12.mb-4.mb-lg-0(data-aos="fade-up" data-aos-duration="500")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen3.svg' alt='')
           .tarjeta.color-primario.background-naranja-claro-1
@@ -34,12 +34,12 @@
 
 
 
-    p.mb-5 Es fundamental realizar un diagnóstico que incluya los datos mínimos que permitan optimizar las intervenciones necesarias para la adecuada atención del tabaquismo. 
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Es fundamental realizar un diagnóstico que incluya los datos mínimos que permitan optimizar las intervenciones necesarias para la adecuada atención del tabaquismo. 
       br
       br
       | Es así como en la historia clínica de un paciente fumador se deben registrar los siguientes datos: 
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       .col-lg-10
         LineaTiempoD.color-primario
           .row.justify-content-center(numero="1" titulo="Indagación")
@@ -79,12 +79,12 @@
             .col-md
               p.text-small Hay que averiguar acerca de la cantidad y consumo diario, a qué hora consume el primero, si consume estando enfermo y si se le dificulta respetar los lugares donde está prohibido fumar. 
 
-    p.mb-5 Debemos tener presente que toda persona que consulta al sistema de salud, independiente de su motivo de consulta, debe ser interrogada sobre el consumo de productos de tabaco o sus derivados. El profesional de salud debe registrar esta información en la historia clínica de manera sistemática, debido a que la identificación temprana del consumo de tabaco aumenta de manera significativa los índices de intervención en los pacientes fumadores.
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Debemos tener presente que toda persona que consulta al sistema de salud, independiente de su motivo de consulta, debe ser interrogada sobre el consumo de productos de tabaco o sus derivados. El profesional de salud debe registrar esta información en la historia clínica de manera sistemática, debido a que la identificación temprana del consumo de tabaco aumenta de manera significativa los índices de intervención en los pacientes fumadores.
       br
       br
       | Esta tamización debe extenderse a todos los servicios de salud, así como también realizarse en los entornos educativos, laborales y comunitarios, siempre que se cuente con los recursos y el personal entrenado para implementarlo. 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
@@ -100,9 +100,9 @@
                 i ¿Usted fuma o consume algún producto derivado del tabaco (incluyendo cigarrillos electrónicos)? 
 
 
-    p.mb-5 Ante esta pregunta se puede presentar dos posibles respuestas: 
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Ante esta pregunta se puede presentar dos posibles respuestas: 
 
-    .row.mb-5.align-items-center.justify-content-center
+    .row.mb-5.align-items-center.justify-content-center(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       .col-10
         .row.align-items-center.mb-5.caja-clara.color-primario-1.py-5.rounded
           .col-lg-4.col-12.mb-5.md-lg-0
@@ -121,7 +121,7 @@
               strong Respuesta negativa
             p.mb-0 Es importante evaluar si se trata de un paciente que nunca ha fumado, para lo cual resulta fundamental aprovechar el contacto con el paciente para felicitarlo y validar su condición de no fumador como una opción de vida saludable; otra posibilidad ante una respuesta negativa es que se trate de un paciente que ha dejado de fumar, por lo que, además de felicitarlo, se recomienda realizar consejería para prevención de recaídas y recomendarle mantenerse libre del consumo de tabaco.
 
-    p.mb-5 También es necesario indagar a todos los pacientes sobre exposición al humo de tabaco ambiental, humo de tabaco ajeno o humo de segunda mano, incluyendo exposición a vapor de dispositivos electrónicos, para que se refuerce la importancia de preservar su espacio libre de humo de tabaco, pues le expone a ser un fumador pasivo.
+    p.mb-5(data-aos="fade-right" data-aos-duration="500") También es necesario indagar a todos los pacientes sobre exposición al humo de tabaco ambiental, humo de tabaco ajeno o humo de segunda mano, incluyendo exposición a vapor de dispositivos electrónicos, para que se refuerce la importancia de preservar su espacio libre de humo de tabaco, pues le expone a ser un fumador pasivo.
   
 </template>
 

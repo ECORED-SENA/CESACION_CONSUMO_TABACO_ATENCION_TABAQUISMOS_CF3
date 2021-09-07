@@ -8,15 +8,15 @@
         span 2
       h1 Historia de consumo de tabaco y grado de tabaquismo (índice tabáquico)
 
-    p.mb-5 La valoración del estatus del fumador comienza con la identificación de la intensidad del consumo, parámetro de obligatorio registro en historia clínica. Se puede utilizar el índice de aquetes de cigarrillos anuales (denominado IPA); y para calcular este índice se requiere conocer el número de cigarrillos diarios y el tiempo que lleva fumando, calculándolo de la siguiente manera:
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") La valoración del estatus del fumador comienza con la identificación de la intensidad del consumo, parámetro de obligatorio registro en historia clínica. Se puede utilizar el índice de aquetes de cigarrillos anuales (denominado IPA); y para calcular este índice se requiere conocer el número de cigarrillos diarios y el tiempo que lleva fumando, calculándolo de la siguiente manera:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-8.col-12
         img(src='@/assets/curso/tema2-imagen1.svg' alt='')
     
-    p.mb-5 De acuerdo con este indicador, se pueden clasificar a los fumadores según su intensidad de consumo, como grado de tabaquismo leve, moderado, grave y muy grave, como se presenta a continuación:
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") De acuerdo con este indicador, se pueden clasificar a los fumadores según su intensidad de consumo, como grado de tabaquismo leve, moderado, grave y muy grave, como se presenta a continuación:
 
-    .row.justify-content-center.mb-5 
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-6.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1
@@ -41,25 +41,25 @@
                 td Muy Grave
                 td > 25
 
-    p.mb-5 El conocimiento de este parámetro ayudará a valorar la probabilidad de:
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") El conocimiento de este parámetro ayudará a valorar la probabilidad de:
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-12.mb-5.mb-lg-0
+      .col-lg-4.col-12.mb-5.mb-lg-0(data-aos="fade-up" data-aos-offset="250" data-aos-duration="500")
         img(src='@/assets/curso/tema2-imagen2.svg' alt='').mb-3
         p.mb-0
           strong Desarrollar enfermedades relacionadas con el tabaquismo. 
-      .col-lg-4.col-12.mb-5.mb-lg-0
+      .col-lg-4.col-12.mb-5.mb-lg-0(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
         img(src='@/assets/curso/tema2-imagen3.svg' alt='').mb-3
         p.mb-0
           strong Identificar una posible dependencia física a la nicotina.
-      .col-lg-4.col-12.mb-5.mb-lg-0
+      .col-lg-4.col-12.mb-5.mb-lg-0(data-aos="fade-up" data-aos-offset="250" data-aos-duration="500")
         img(src='@/assets/curso/tema2-imagen4.svg' alt='').mb-3
         p.mb-0
           strong Lograr el objetivo terapéutico: dejar de fumar. 
       
-    p.mb-5 En términos generales, a mayor puntaje en el IPA, mayor posibilidad de dependencia física a la nicotina. <strong>El consumo de menos de 10 cigarrillos/día podría asociarse con una mayor probabilidad de éxito en el proceso de cesación.</strong> Dentro del abordaje del fumador es significativo conocer otros elementos clave relacionados con la historia del tabaquismo, y por ejemplo, se pueden realizar las siguientes preguntas:
+    p.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500") En términos generales, a mayor puntaje en el IPA, mayor posibilidad de dependencia física a la nicotina. <strong>El consumo de menos de 10 cigarrillos/día podría asociarse con una mayor probabilidad de éxito en el proceso de cesación.</strong> Dentro del abordaje del fumador es significativo conocer otros elementos clave relacionados con la historia del tabaquismo, y por ejemplo, se pueden realizar las siguientes preguntas:
     
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500")
       .col-lg-6.col-12.mb-5.d-flex
         .row.caja-enumerada.w-100
           .col-auto
@@ -116,9 +116,9 @@
               | Indagar historia personal de epilepsia, trastornos psiquiátricos, trastornos digestivos, cardiovasculares, que son importantes a la hora de seleccionar tratamiento farmacológico.
       
 
-    p.mb-5 También se han identificado algunos factores predictores de éxito para la cesación del consumo de tabaco, como: 
+    p.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500") También se han identificado algunos factores predictores de éxito para la cesación del consumo de tabaco, como: 
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right" data-aos-duration="500")
       .col-lg-8.col-12
         ImagenInfografica.color-primario.mb-5
 

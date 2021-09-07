@@ -8,14 +8,14 @@
         span 5
       h1 Intentos previos de cesación y motivos de recaídas
 
-    p.mb-4 Las personas con múltiples intentos previos de cesación y que no han logrado dejar de fumar, pueden tener una mayor probabilidad de presentar dependencia física a la nicotina. Así, es relevante preguntar sobre los intentos previos para dejar de fumar y los motivos de recaída, aportando información útil al momento de diseñar un plan de intervención para la cesación del consumo de tabaco. 
+    p.mb-4(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") Las personas con múltiples intentos previos de cesación y que no han logrado dejar de fumar, pueden tener una mayor probabilidad de presentar dependencia física a la nicotina. Así, es relevante preguntar sobre los intentos previos para dejar de fumar y los motivos de recaída, aportando información útil al momento de diseñar un plan de intervención para la cesación del consumo de tabaco. 
 
-    figure.image-with-color-bottom.p-4
+    figure.image-with-color-bottom.p-4(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       img(src="@/assets/curso/tema5-imagen1.jpg")
     
-    p.mb-5 En términos prácticos, es importante indagar con el paciente acerca de sus intentos previos de cesación de consumo de tabaco y los motivos de su recaída. A continuación, se presentan algunas preguntas que se pueden realizar al paciente:
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") En términos prácticos, es importante indagar con el paciente acerca de sus intentos previos de cesación de consumo de tabaco y los motivos de su recaída. A continuación, se presentan algunas preguntas que se pueden realizar al paciente:
 
-    ol.lista-ol--cuadro
+    ol.lista-ol--cuadro(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       li.mb-4
         .lista-ol--cuadro__vineta
           span a
@@ -62,9 +62,9 @@
         | ¿Cuáles son los posibles temores frente al proceso? 
 
 
-    p.mb-5 Estas preguntas son complementarias al abordaje integral del fumador, facilitando una adecuada comprensión y análisis funcional de la conducta de fumar, lo cual permitirá individualizar el abordaje terapéutico. 
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") Estas preguntas son complementarias al abordaje integral del fumador, facilitando una adecuada comprensión y análisis funcional de la conducta de fumar, lo cual permitirá individualizar el abordaje terapéutico. 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-9.col-12
         .cajon.color-primario.p-4
           .row.px-5.align-items-center
@@ -74,7 +74,7 @@
             .col-10
               p.mb-0 A mayor número de intentos previos para dejar de fumar, mayor posibilidad de lograr la cesación definitiva. 
 
-    p.mb-5 Una persona que ha logrado dejar de fumar ha tenido, en promedio, cinco (5) intentos previos de cesación. En este orden de ideas, uno de los factores predictivos de una menor tasa de éxito para la cesación es la ausencia de intentos previos de dejar de fumar.
+    p.mb-5(data-aos="fade-right" data-aos-duration="500") Una persona que ha logrado dejar de fumar ha tenido, en promedio, cinco (5) intentos previos de cesación. En este orden de ideas, uno de los factores predictivos de una menor tasa de éxito para la cesación es la ausencia de intentos previos de dejar de fumar.
   
 </template>
 
