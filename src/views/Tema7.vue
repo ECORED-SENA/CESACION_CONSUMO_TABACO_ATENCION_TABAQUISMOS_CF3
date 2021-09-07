@@ -156,10 +156,51 @@
     p.mb-5 A continuación, se presentan los tipos de tamizajes de detección temprana en pacientes fumadores:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-      div(titulo="Detección temprana de depresión")
-      div(titulo="Detección temprana de ansiedad")
-      div(titulo="Detección temprana de EPOC")
-      div(titulo="Detección temprana de cáncer pulmonar")
+      .row.px-5(titulo="Detección temprana de depresión")
+        .col-lg-3.mb-lg-0.mb-4
+          figure
+            img(src="@/assets/curso/tema7-imagen5.png")
+        .col-lg-9
+          p.mb-0
+            span Con frecuencia el tabaquismo puede presentarse como un síntoma de depresión, por lo tanto, su identificación temprana es clave para tratar la enfermedad de base y no el síntoma. Para ello, se recomienda evaluar en los pacientes fumadores mayores de 18 años la presencia de depresión mediante la aplicación de la prueba de Whooley o test de dos preguntas:
+            br
+            br
+            strong 1. ¿Durante los últimos 30 días se ha sentido a menudo desanimado, deprimido o con pocas esperanzas?
+            br
+            strong 2. ¿Durante los últimos 30 días ha sentido menudo poco interés o placer al hacer cosas que habitualmente disfrutaba?
+            br
+            br
+            span Si la respuesta a alguna de las dos preguntas es afirmativa, es necesario aplicar criterios para descartar un diagnóstico de trastorno depresivo. 
+      .row.px-5(titulo="Detección temprana de ansiedad")
+        .col-lg-3.mb-lg-0.mb-4
+          figure
+            img(src="@/assets/curso/tema7-imagen6.png")
+        .col-lg-9
+          p.mb-0
+            span Varios estudios han demostrado, en adolescentes y adultos, la relación entre ansiedad y fumar.
+            br
+            br
+            span Es importante considerar que el tabaquismo puede preceder el inicio de trastornos de ansiedad; los adolescentes con ansiedad social tienen mayor riesgo de desarrollar dependencia nicotínica y el fumar exacerba la sintomatología ansiosa comparada con los no fumadores.
+            br
+            br
+            span Se recomienda, en pacientes fumadores con factores de riesgo para ansiedad, realizar la tamización para trastorno de ansiedad  utilizando el test de ansiedad de Goldberg, que es corto y de fácil aplicación con el propósito de disminuir las posibles recaídas en el proceso de cesación.
+
+      .row.px-5(titulo="Detección temprana de EPOC")
+        .col-lg-3.mb-lg-0.mb-4
+          figure
+            img(src="@/assets/curso/tema7-imagen7.png")
+        .col-lg-9
+          p.mb-0
+            span El tabaquismo es uno de los principales factores de riesgo para desarrollar Enfermedad Pulmonar Obstructiva Crónica (EPOC), por tanto, se recomienda la búsqueda activa de esta enfermedad en todos los sujetos fumadores o con antecedente de tabaquismo con un IPA ≥ 20 paquetes/año, aunque no tengan síntomas, y en adultos expuestos a tabaquismo de segunda mano donde la exposición fue o es frecuente a una persona que fume en el hogar o en el sitio de trabajo.
+
+      .row.px-5(titulo="Detección temprana de cáncer pulmonar")
+        .col-lg-3.mb-lg-0.mb-4
+          figure
+            img(src="@/assets/curso/tema7-imagen8.png")
+        .col-lg-9
+          p.mb-0
+            span Otra de las enfermedades a considerar como sospechosa para identificar tempranamente, es el cáncer de pulmón, sobre todo en personas de 55 a 74 años fumadores de 30 paquetes/años o más, fumadores activos o que hayan dejado de fumar hace menos de 15 años.
+
         
 
     p.mb-5 En el caso de fumadores con antecedentes de trastornos de ansiedad, se recomienda utilizar las mismas estrategias de cesación que en pacientes sin trastornos de ansiedad y tener manejo interdisciplinario con psicología y psiquiatría. 
