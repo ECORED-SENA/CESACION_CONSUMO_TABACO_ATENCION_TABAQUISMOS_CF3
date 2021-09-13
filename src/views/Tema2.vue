@@ -8,7 +8,7 @@
         span 2
       h1 Historia de consumo de tabaco y grado de tabaquismo (índice tabáquico)
 
-    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") La valoración del estatus del fumador comienza con la identificación de la intensidad del consumo, parámetro de obligatorio registro en historia clínica. Se puede utilizar el índice de aquetes de cigarrillos anuales (denominado IPA); y para calcular este índice se requiere conocer el número de cigarrillos diarios y el tiempo que lleva fumando, calculándolo de la siguiente manera:
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") La valoración del estatus del fumador comienza con la identificación de la intensidad del consumo, parámetro de obligatorio registro en historia clínica. Se puede utilizar el índice de paquetes de cigarrillos anuales (denominado IPA); y para calcular este índice se requiere conocer el número de cigarrillos diarios y el tiempo que lleva fumando, calculándolo de la siguiente manera:
 
     .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-8.col-12
@@ -68,7 +68,7 @@
             p.mb-0
               strong Tabaquismo de los padres o convivientes.
               br
-              | Ejemplo: <i>¿Alguien más fuma en su casa?</i>
+              | Ejemplo: <i>¿alguien más fuma en su casa?</i>
       .col-lg-6.col-12.mb-5.d-flex
         .row.caja-enumerada.w-100
           .col-auto
@@ -77,7 +77,7 @@
             p.mb-0
               strong Tabaquismo en amigos o círculo social cercano.
               br
-              | Ejemplo: <i>¿Tiene amigos o compañeros de trabajo fumadores?</i>
+              | Ejemplo: <i>¿tiene amigos o compañeros de trabajo fumadores?</i>
       .col-lg-6.col-12.mb-5.d-flex
         .row.caja-enumerada.w-100
           .col-auto
@@ -86,7 +86,7 @@
             p.mb-0
               strong Edad de inicio del consumo.
               br
-              | Ejemplo: <i> ¿Cuándo probó por primera vez un cigarrillo o un cigarrillo electrónico?</i>
+              | Ejemplo: <i> ¿cuándo probó por primera vez un cigarrillo o un cigarrillo electrónico?</i>
       .col-lg-6.col-12.mb-5.d-flex
         .row.caja-enumerada.w-100
           .col-auto
@@ -95,7 +95,7 @@
             p.mb-0
               strong Comorbilidades o antecedentes médicos.
               br
-              | Ejemplo: <i>¿Sufre de alguna enfermedad?</i>
+              | Ejemplo: <i>¿sufre de alguna enfermedad?</i>
       .col-lg-6.col-12.mb-5.d-flex
         .row.caja-enumerada.w-100
           .col-auto
@@ -104,7 +104,7 @@
             p.mb-0
               strong Historia de otro consumo de sustancias.
               br
-              | Ejemplo: <i> ¿Consume bebidas alcohólicas o algún otro tipo de sustancias psicoactivas?</i>
+              | Ejemplo: <i> ¿consume bebidas alcohólicas o algún otro tipo de sustancias psicoactivas?</i>
       .col-lg-6.col-12.mb-5.d-flex
         .row.caja-enumerada.w-100
           .col-auto

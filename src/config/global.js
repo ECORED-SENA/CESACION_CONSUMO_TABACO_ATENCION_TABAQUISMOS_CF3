@@ -155,7 +155,7 @@ export default {
     },
     {
       referencia:
-        'Prochaska, J. y DiClemente, C. (1983). Stages and process of self-change of smoking: towards an integrative model of change. J Consult Clin Psychol, 51(3), 390-395.',
+        'Prochaska, J. y DiClemente, C. (1983). <i>Stages and process of self-change of smoking: towards an integrative model of change. J Consult Clin Psychol, 51(3), 390-395.</i>',
     },
   ],
   glosario: [
@@ -203,7 +203,7 @@ export default {
   complementario: [
     {
       texto:
-        'Fiore, M. C., Bailey, W. C., & Cohen, S. J. (2015). A Clinical Practice Guideline for Treating Tobacco Use and Dependence: 2008 Update: A U.S. Public Health Service Report.',
+        'Fiore, M. C., Bailey, W. C., & Cohen, S. J. (2015). <i>A Clinical Practice Guideline for Treating Tobacco Use and Dependence: 2008 Update: A U.S. Public Health Service Report.</i>',
       tipo: 'Libro',
       descarga: '/downloads/nihms59469.pdf',
     },
@@ -322,12 +322,12 @@ export default {
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
-        cargo: 'Soporte front=end',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '<Pendiente>',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

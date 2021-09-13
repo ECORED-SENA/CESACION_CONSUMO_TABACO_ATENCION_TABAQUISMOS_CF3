@@ -36,6 +36,7 @@
           span Preguntas de la prueba Richmond
         .tabla-a.color-acento-contenido
           table
+            caption Nota. Tomada del Ministerio de Salud y Proteccion Social (2020).
             thead
               tr
                 th(colspan="2") Pregunta
@@ -86,18 +87,22 @@
           .col-lg-6.col-12.mb-4
             .titulo-sexto.color-primario
               h5 Menos de 3 puntos
+              br
               span Muy baja motivación para dejar de fumar. 
           .col-lg-6.col-12.mb-4
             .titulo-sexto.color-primario
               h5 6 a 7 puntos
+              br
               span Moderada motivación para dejar de fumar.
           .col-lg-6.col-12
             .titulo-sexto.color-primario
               h5 4 a 5 puntos
+              br
               span Baja motivación para dejar de fumar.
           .col-lg-6.col-12
             .titulo-sexto.color-primario
               h5 8 a 10 puntos
+              br
               span Alta motivación para dejar de fumar.
 
     h3.titulo-tercero La escala visual análoga

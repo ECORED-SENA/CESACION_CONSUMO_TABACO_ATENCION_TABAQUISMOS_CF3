@@ -62,9 +62,9 @@
 
     p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Esta tabla servirá como resumen y guía al momento de abordar un paciente fumador; en esta categorización se identifican algunas pruebas como opcionales, sin embargo, es recomendable que siempre se realice una valoración completa.
 
-    h3.titulo-tercero(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500") Evaluación del nivel de CO en el aire espirado: Cooximetría
+    h3.titulo-tercero(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500") Evaluación del nivel de CO en el aire espirado: cooximetría
 
-    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Esta tabla servirá como resumen y guía al momento de abordar un paciente fumador; en esta categorización se identifican algunas pruebas como opcionales, sin embargo, es recomendable que siempre se realice una valoración completa.
+    p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") Es una prueba sencilla para evaluar el nivel de monóxido de carbono (CO) en el aire espirado de una persona. Los niveles mayores de 7 ppm (partículas por millón) de CO, se relacionan con el consumo de tabaco fumado y permite medir de manera objetiva el consumo de tabaco y, de manera indirecta, reflejar posibilidad de enfermedades atribuidas al tabaquismo.
 
     .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-offset="500" data-aos-duration="500")
       .col-lg-9.col-12
@@ -100,13 +100,14 @@
                 td(rowspan="3")
                   img(src="@/assets/curso/tema7-imagen3.svg")
               tr
-                td No fumadores 
-                td CO 6 a10ppm
+                td Fumadores esporádicos 
+                td CO 6 a 10 ppm
               tr
                 td Fumadores 
                 td CO > 10 ppm
 
     p.mb-5(data-aos="fade-right" data-aos-offset="500" data-aos-duration="500") La vida media del nivel CO en aire espirado es corta (entre 2-5 horas), por lo que esta es una de las causas más frecuentes de falsos negativos. 
+      br
       br
       | Existe una correlación entre los niveles de cooximetría y el grado de tabaquismo, es decir, un grado leve de tabaquismo mediante cooximetría indica que la persona tiene menos de 15 ppm de monóxido de carbono en el aire espirado y así sucesivamente. 
       br
@@ -132,12 +133,12 @@
                 td < 15
               tr
                 td Moderado
-                td 5 - 15
-                td 15 - 20
+                td 5-15
+                td 15-20
               tr
                 td Grave
-                td 16 - 25
-                td 21 - 30
+                td 16-25
+                td 21-30
               tr
                 td Muy grave
                 td > 25
@@ -202,8 +203,7 @@
             span Otra de las enfermedades a considerar como sospechosa para identificar tempranamente, es el cáncer de pulmón, sobre todo en personas de 55 a 74 años fumadores de 30 paquetes/años o más, fumadores activos o que hayan dejado de fumar hace menos de 15 años.
 
         
-
-    p.mb-5(data-aos="fade-right" data-aos-duration="500") En el caso de fumadores con antecedentes de trastornos de ansiedad, se recomienda utilizar las mismas estrategias de cesación que en pacientes sin trastornos de ansiedad y tener manejo interdisciplinario con psicología y psiquiatría. 
+    p.mb-5(data-aos="fade-right" data-aos-duration="200") En el caso de fumadores con antecedentes de trastornos de ansiedad, se recomienda utilizar las mismas estrategias de cesación que en pacientes sin trastornos de ansiedad y tener manejo interdisciplinario con psicología y psiquiatría. 
   
 </template>
 

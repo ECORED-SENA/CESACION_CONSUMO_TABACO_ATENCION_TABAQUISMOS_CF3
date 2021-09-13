@@ -45,7 +45,7 @@
               br
               | Entre 6 y 30 minutos.
               br
-              | 31 -60 minutos.
+              | 31-60 minutos.
               br
               | Más de 60 minutos.
             td
@@ -81,9 +81,9 @@
             td 
               | 10 o menos.
               br
-              | 11 – 20.
+              | 11–20.
               br
-              | 21 – 30.
+              | 21–30.
               br
               | 31 o más.
             td
@@ -123,17 +123,20 @@
           .col-lg-4.col-12
             .titulo-sexto.color-primario.mb-0
               h5 Menos de 4
+              br
               span Baja dependencia física a la nicotina.
           .col-lg-4.col-12
             .titulo-sexto.color-primario.mb-0
               h5 Entre 4 y 7
+              br
               span Moderada dependencia física a la nicotina.
           .col-lg-4.col-12
             .titulo-sexto.color-primario.mb-0
               h5 Más de 7
+              br
               span Alta dependencia física a la nicotina.
 
-    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") La prueba de Fagerström versión breve, con solo dos preguntas, también ayuda a evaluar la probabilidad de dependencia física a la nicotina. La aplicación que puede ser auto o hetero administrada y las preguntas se presentan en la siguiente tabla.
+    p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") La prueba de Fagerström versión breve, con solo dos preguntas, también ayuda a evaluar la probabilidad de dependencia física a la nicotina. La aplicación que puede ser auto o hetero administrada y las preguntas se presentan en la siguiente tabla:
 
     .row.mb-5.justify-content-center(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
       .col-lg-7
@@ -176,14 +179,17 @@
           .col-lg-4.col-12
             .titulo-sexto.color-primario.mb-0
               h5 5 a 6 puntos
+              br
               span Alta dependencia física a la nicotina.
           .col-lg-4.col-12
             .titulo-sexto.color-primario.mb-0
               h5 3 a 4 puntos
+              br
               span Moderada dependencia física a la nicotina.
           .col-lg-4.col-12
             .titulo-sexto.color-primario.mb-0
               h5 0 a 2 puntos
+              br
               span Baja dependencia física a la nicotina.
 
     p.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500") Es importante tener presente que se consideran factores predictores de alta dependencia física a la nicotina:
@@ -196,14 +202,14 @@
               img(src='@/assets/curso/tema6-imagen2.svg' alt='')
               .tarjeta.color-primario.background-naranja-claro-1
                 .py-4.px-5
-                  p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
+                  p.mb-0 Si fuma más de 20 cigarrillos por día. 
 
           .col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-up" data-aos-offset="250" data-aos-duration="500")
             .tarjeta-avatar
               img(src='@/assets/curso/tema6-imagen3.svg' alt='')
               .tarjeta.color-primario.background-naranja-claro-2
                 .py-4.px-5
-                  p.mb-0 Identificar oportunamente el consumo de productos de tabaco y sus derivados en cada atención en salud (independiente del motivo de consulta).
+                  p.mb-0 Si enciende el primer cigarrillo del día en los primeros 30 minutos luego de despertarse.
 
     .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500")
       .col-lg-7.col-12
@@ -257,7 +263,8 @@
 
     p.mb-5(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500") Para evaluar la dependencia social, se deben considerar otros factores como los patrones de consumo de tabaco por parte de familia, pares y roles modelos en la comunidad. 
       br
-      | Una prueba sugerida para evaluar este tipo de dependencia puede ser Razones por las que fumo, la cual puede ser autodiligenciada, permitiendo ampliar la comprensión global de las razones por las que una persona continúa fumando, como refuerzo gestual, estimulación, placer, relajación, reducción de estados negativos, adicción, automatismo, que podrían presentarse al mismo tiempo en diferentes niveles en cada fumador.
+      br
+      | Una prueba sugerida para evaluar este tipo de dependencia puede ser <strong>Razones por las que fumo</strong>, la cual puede ser autodiligenciada, permitiendo ampliar la comprensión global de las razones por las que una persona continúa fumando, como refuerzo gestual, estimulación, placer, relajación, reducción de estados negativos, adicción, automatismo, que podrían presentarse al mismo tiempo en diferentes niveles en cada fumador.
 
     .row.justify-content-center.mb-5(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
       .col-auto

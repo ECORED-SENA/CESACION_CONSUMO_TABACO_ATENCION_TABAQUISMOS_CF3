@@ -19,17 +19,17 @@
       | En el siguiente recurso de aprendizaje se describen estas etapas para mayor comprensión:
 
     TabsA.color-acento-contenido.mb-5(data-aos="fade-left" data-aos-offset="250" data-aos-duration="500")
-      .tarjeta.color-primario--borde.p-4(titulo="PASO 1: Precontemplación")
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 1: precontemplación")
         p.mb-0 Sin intención de dejar de fumar en los próximos 6 meses.
-      .tarjeta.color-primario--borde.p-4(titulo="PASO 2: Contemplación")
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 2: contemplación")
         p.mb-0 Intención de dejar de fumar en los próximos 6 meses.
-      .tarjeta.color-primario--borde.p-4(titulo="PASO 3: Preparación")
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 3: preparación")
         p.mb-0 Intención de cesación en el próximo mes.
-      .tarjeta.color-primario--borde.p-4(titulo="PASO 4: Acción")
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 4: acción")
         p.mb-0 Ha iniciado el proceso de cese. Está dejando de fumar.
-      .tarjeta.color-primario--borde.p-4(titulo="PASO 5: Mantenimiento")
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 5: mantenimiento")
         p.mb-0 Ha dejado de fumar por más de 6 meses.
-      .tarjeta.color-primario--borde.p-4(titulo="PASO 6: Recaída")
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 6: recaída")
         p.mb-0 Ha vuelto a fumar.
 
     p.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500") El avance en los estadios de cambio está determinado por la motivación para dejar de fumar o vapear y la percepción de poder hacerlo (autoeficacia). 
