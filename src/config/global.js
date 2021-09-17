@@ -243,15 +243,16 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Yolanda Sandoval',
+        nombre: 'Nelci Becerra',
         cargo: 'Profesional especializado',
-        centro: 'Subdirección de enfermedades no transmisibles',
+        centro:
+          'Ministerio de Salud - Sociedad Colombiana de Medicina Familiar.',
       },
       {
-        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
-        cargo:
-          'Instructora (EPC) – Líder desarrollo curricular Servicios Personales',
-        centro: 'Centro de Servicios de Salud',
+        nombre: 'Yolanda Sandoval',
+        cargo: 'Profesional especializado',
+        centro:
+          'Ministerio de Salud - Subdirección de enfermedades no transmisibles',
       },
       {
         nombre: 'Giovanna Andrea',
@@ -259,9 +260,10 @@ export default {
         centro: 'Regional Antioquia - Centro de Servicios de Salud.',
       },
       {
-        nombre: 'Silvia Milena Sequeda Cárdenas',
-        cargo: 'Evaluadora Instruccional',
-        centro: 'Regional Distrito Capital - Centro de gestión industrial.',
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro:
+          'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
