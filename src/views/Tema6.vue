@@ -200,8 +200,9 @@
           .col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-down" data-aos-offset="250" data-aos-duration="500")
             .tarjeta-avatar
               img(src='@/assets/curso/tema6-imagen2.svg' alt='')
-              .tarjeta.color-primario.background-naranja-claro-1
+              .tarjeta.color-primario.background-naranja-claro-1.w-100
                 .py-4.px-5
+                  h2.text-center Cantidad de cigarrillos
                   p.mb-0 Si fuma más de 20 cigarrillos por día. 
 
           .col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-up" data-aos-offset="250" data-aos-duration="500")
@@ -209,6 +210,7 @@
               img(src='@/assets/curso/tema6-imagen3.svg' alt='')
               .tarjeta.color-primario.background-naranja-claro-2
                 .py-4.px-5
+                  h2.text-center Momento del consumo
                   p.mb-0 Si enciende el primer cigarrillo del día en los primeros 30 minutos luego de despertarse.
 
     .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-offset="250" data-aos-duration="500")

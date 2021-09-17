@@ -126,7 +126,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2020). Directrices para desarrollar programas para la cesación del consumo de tabaco y atención del tabaquismo.',
+        'Ministerio de Salud y Protección Social. (2020). Directrices para desarrollar programas para la cesación del consumo de tabaco y atención del tabaquismo. ',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/directrices-cesacion-consumo-atencion-tabaco.pdf',
     },
@@ -155,7 +155,7 @@ export default {
     },
     {
       referencia:
-        'Prochaska, J. y DiClemente, C. (1983). <i>Stages and process of self-change of smoking: towards an integrative model of change. J Consult Clin Psychol, 51(3), 390-395.</i>',
+        'Prochaska, J. y DiClemente, C. (1983). <i>Stages and process of self-change of smoking: towards an integrative model of change. J Consult Clin Psychol, 51(3), 390-395.</i> ',
     },
   ],
   glosario: [
@@ -241,6 +241,33 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yolanda Sandoval',
+        cargo: 'Profesional especializado',
+        centro: 'Subdirección de enfermedades no transmisibles',
+      },
+      {
+        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
+        cargo:
+          'Instructora (EPC) – Líder desarrollo curricular Servicios Personales',
+        centro: 'Centro de Servicios de Salud',
+      },
+      {
+        nombre: 'Giovanna Andrea',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Regional Antioquia - Centro de Servicios de Salud.',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Regional Distrito Capital - Centro de gestión industrial.',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica.',
       },
     ],
     desarrolloProducto: [
