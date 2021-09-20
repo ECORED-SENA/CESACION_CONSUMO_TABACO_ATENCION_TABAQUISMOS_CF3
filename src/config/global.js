@@ -257,7 +257,7 @@ export default {
       {
         nombre: 'Giovanna Andrea',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Servicios de Salud. - Regional Antioquia',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
