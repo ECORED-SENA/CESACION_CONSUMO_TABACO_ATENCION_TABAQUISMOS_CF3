@@ -42,7 +42,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Valoración etapas de cambio (modelo de Prochaska)',
+        titulo: 'Valoración de etapas de cambio (modelo de Prochaska)',
         desarrolloContenidos: true,
         subMenu: [],
       },

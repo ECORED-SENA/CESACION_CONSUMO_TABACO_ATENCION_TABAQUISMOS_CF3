@@ -168,7 +168,7 @@
             br
             strong 1. ¿Durante los últimos 30 días se ha sentido a menudo desanimado, deprimido o con pocas esperanzas?
             br
-            strong 2. ¿Durante los últimos 30 días ha sentido menudo poco interés o placer al hacer cosas que habitualmente disfrutaba?
+            strong 2. ¿Durante los últimos 30 días ha sentido a menudo poco interés o placer al hacer cosas que habitualmente disfrutaba?
             br
             br
             span Si la respuesta a alguna de las dos preguntas es afirmativa, es necesario aplicar criterios para descartar un diagnóstico de trastorno depresivo. 

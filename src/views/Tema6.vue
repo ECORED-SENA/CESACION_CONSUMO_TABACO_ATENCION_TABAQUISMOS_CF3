@@ -274,10 +274,10 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p <strong>Anexo</strong>. Prueba Razones por las que no fumo.
+            p <strong>Anexo</strong>. Prueba Razones por las que fumo.
           
 
-    p.mb-5(data-aos="fade-down" data-aos-duration="500") Finalmente, entender la psicopatología de la adicción al tabaco y de las motivaciones para el cambio de conducta permite comprender a los fumadores y brindar un mejor apoyo psicosocial a estas personas, por lo tanto, contar con esta información a partir la aplicación de instrumentos como “Razones por las que fumo”, aumentará el éxito del abordaje para ayudar al paciente a dejar de fumar, siendo necesario que el personal de salud reconozca este tipo se instrumentos y comprenda su uso y utilidad.
+    p.mb-5(data-aos="fade-down" data-aos-duration="500") Finalmente, entender la psicopatología de la adicción al tabaco y de las motivaciones para el cambio de conducta permite comprender a los fumadores y brindar un mejor apoyo psicosocial a estas personas, por lo tanto, contar con esta información a partir la aplicación de instrumentos como “Razones por las que fumo”, aumentará el éxito del abordaje para ayudar al paciente a dejar de fumar, siendo necesario que el personal de salud reconozca este tipo de instrumentos y comprenda su uso y utilidad.
   
 </template>
 
