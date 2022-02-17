@@ -232,7 +232,7 @@ export default {
       tipo: 'Página web',
       link:
         'https://www.who.int/publications-detail/strengthening-health-systems-for-treating-tobacco-dependence-in-primary-care',
-    },    
+    },
   ],
   creditos: {
     liderEquipo: [
