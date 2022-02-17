@@ -23,38 +23,29 @@
             th CIE-10
             th Descripción CIE-10
             th Intervención en el programa
-            th Procedimiento/Descripción CUPS
+
         tbody
           tr
             td Z720
-            td Problemas relacionados con el uso de tabaco.
-            td Diagnóstico de tabaquismo.
-            td No aplica.
+            td Problemas relacionados con el uso de tabaco
+            td Usar este codigo cuando se realiza el diagnóstico del tabaquismo. SI se desea ser mas preciso teniendo en cuenta los hallazgos clínicos puede considerarse:
+
           tr
             td Z716
-            td Problemas relacionados con el uso de tabaco.
-            td Intervención breve programada.
-            td 89.0.2 Consulta descrita como global o de primera vez.<br>89.0.3 Consulta de control o seguimiento.
-          tr
-            td F171
-            td Trastornos mentales y del comportamiento debidos al uso de tabaco: uso nocivo.
-            td Intervención breve programada y manejo farmacológico.
-            td F171 Trastornos mentales y del comportamiento debidos al uso de tabaco: uso nocivo.
-          tr
-            td F172
-            td Trastornos mentales y del comportamiento debidos al uso de tabaco: síndrome de dependencia.
-            td Intervención intensiva cognitivo-conductual.
-            td(rowspan="2") 89.0.2.01 Consulta de primera vez por medicina general.<br>89.0.3.01 Consulta de control o seguimiento por medicina general.<br>89.0.2.02 Consulta por primera vez por medicina especializada.<br>89.0.3.02 Consulta de control de seguimiento por medicina especializada.<br>89.0.2.08 Consulta por primera vez por psicología.<br>89.0.3.08 Consulta de control de seguimiento por psicología.
-          tr
-            td F173
-            td Trastornos mentales y del comportamiento debidos al uso de tabaco: estado de abstinencia.
-            td Intervención intensiva cognitivo-conductual y manejo farmacológico.
+            td Consulta para asesoría por Usarlo cuando se realizan las consultas programadas de labaco
+            td Usarlo cuando se realizan las consultas programadas para el tratamiento del tabaquismo 
+
           tr
             td Z50.8
             td Atención por otros procedimientos de rehabilitación (rehabilitación por uso de tabaco).
-            td Cesación tabaquismo.
-            td 89.0.3 Consulta de control o de seguimiento.
-        
+            td Usarlo cuando al paciente dejo el consumo de tabaco o sus derivados, es decir cesación del tabaquismo de más de 6 meses
+      .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")
+        .col-lg-8
+          a.anexo(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/directrices-cesacion-consumo-atencion-tabaco.pdf" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p.mb-0 #[b Anexo.] Documento de directrices para la revisión del tema
 
     p.mb-0(data-aos="fade-down" data-aos-duration="500") Se debe tener siempre presente que el reporte adecuado y oportuno de esta información les posibilita a los actores del sistema de salud saber si las atenciones prestadas generan un impacto positivo, reservar recursos u orientar las decisiones clínicas y de política pública.
   

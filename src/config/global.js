@@ -226,6 +226,13 @@ export default {
       link:
         'https://tejedordehistorias.wordpress.com/2015/12/10/las-fases-del-cambio-el-modelo-transteorico-de-prochaska-y-diclemente/',
     },
+    {
+      texto:
+        'Organización Mundial de la Salud. Strengthening health systems for treating tobacco dependence in primary care',
+      tipo: 'Página web',
+      link:
+        'https://www.who.int/publications-detail/strengthening-health-systems-for-treating-tobacco-dependence-in-primary-care',
+    },    
   ],
   creditos: {
     liderEquipo: [
@@ -241,12 +248,6 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nelci Becerra',
-        cargo: 'Profesional especializado',
-        centro:
-          'Ministerio de Salud - Sociedad Colombiana de Medicina Familiar.',
       },
       {
         nombre: 'Yolanda Sandoval',
@@ -270,6 +271,17 @@ export default {
         cargo: 'Corrector de estilo',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Yolanda Ines Sandoval Gil',
+        cargo: 'Profesional Especializado',
+        centro:
+          'Ministerio de Salud y Protección Social – Subdirección de Enfermedades No Transmisibles',
+      },
+      {
+        nombre: 'Nelci Becerra Martínez',
+        cargo: 'Asesora',
+        centro: 'Organización Panamericana de la Salud - Proyecto FCTC 2030',
       },
     ],
     desarrolloProducto: [
